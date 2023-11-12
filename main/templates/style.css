@@ -1,0 +1,6 @@
+.formhtml {
+    background-image: url('/static/h.png'); /* Use the correct path to your image */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
